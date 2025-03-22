@@ -38,7 +38,7 @@ Fine-tuning will be added in future updates.
 
 
 📢 Connect with Me
-🔗 LinkedIn https://www.linkedin.com/in/ipsakundu/
+🔗 [LinkedIn](https://www.linkedin.com/in/ipsakundu/)
 
 🔹 Enjoy using ASR! 🔹
 
