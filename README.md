@@ -8,30 +8,11 @@ To use this model, you'll need the following:
 2. **.wav Files (Dataset)** → Download from **[Google Drive](your_drive_link_here)**  
 
 ### 📌 How to Set Up  
-1️⃣ Clone the repository:  
+
+#### **1️⃣ Clone the Repository**  
+Run the following commands in your terminal:  
+
 ```bash
 git clone https://github.com/your-username/asr-model.git
 cd asr-model
 
-➡️ Download & Place the Required Files:
-
-Put the .json files in wav2vec2/ directory
-
-Put the .wav files in dataset/ directory
-
-### 2️⃣ Install dependencies:
-pip install -r requirements.txt
-
-### 3️⃣ Run the ASR model:
-python transcribe.py --audio input.wav
-
-
-🛠 Fine-Tuning the Model
-To fine-tune the model on your own dataset:
-python train.py
-
-💡 Contributions
-If you have ideas for improvement, feel free to open an issue or submit a pull request.
-
-📄 License
-MIT License - Free to use and modify.
