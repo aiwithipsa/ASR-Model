@@ -19,10 +19,10 @@ Put the .json files in wav2vec2/ directory
 
 Put the .wav files in dataset/ directory
 
-2️⃣ Install dependencies:
+### 2️⃣ Install dependencies:
 pip install -r requirements.txt
 
-3️⃣ Run the ASR model:
+### 3️⃣ Run the ASR model:
 python transcribe.py --audio input.wav
 
 
