@@ -1,17 +1,23 @@
-# 🎙️ASR Model for Speech Recognition  
+## 🎙️ ASR Model - Automatic Speech Recognition  
 
-This repository contains an Automatic Speech Recognition (ASR) model fine-tuned using Wav2Vec2.  
+This repository contains an **Automatic Speech Recognition (ASR) model** using **Wav2Vec2** to convert speech into text.  
 
-## 📌 Project Overview  
-- This model converts speech into text using a **fine-tuned Wav2Vec2 architecture**.  
-- Dataset used: [Mozilla Common Voice](https://commonvoice.mozilla.org/)  
-- Supports English language transcriptions.  
+### 🔹 Required Files  
+To use this model, you'll need the following:  
+1. **Pre-trained Model & Config Files** → Download from **[Google Drive](your_drive_link_here)** or **Hugging Face**  
+2. **.wav Files (Dataset)** → Download from **[Google Drive](your_drive_link_here)**  
 
-## 🚀 Installation  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/aiwwithipsa/asarmodel.git
+### 📌 How to Set Up  
+1️⃣ Clone the repository:  
+```bash
+git clone https://github.com/your-username/asr-model.git
 cd asr-model
+
+➡️ Download & Place the Required Files:
+
+Put the .json files in wav2vec2/ directory
+
+Put the .wav files in dataset/ directory
 
 2️⃣ Install dependencies:
 pip install -r requirements.txt
