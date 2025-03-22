@@ -25,6 +25,7 @@ pip install -r requirements.txt
 python transcribe.py --audio dataset/input.wav
 
 
+
 ### 🛠 Fine-Tuning (Optional)
 To fine-tune the model, follow the training instructions:
 python train.py
@@ -32,7 +33,7 @@ python train.py
 ### 🤝 Contributing
 Feel free to fork this repo, make improvements, and submit a pull request!
 
-📌 Notes
+#### 📌 Notes
 The model is not fine-tuned yet, but it can still process speech.
 
 Fine-tuning will be added in future updates.
