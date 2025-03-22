@@ -5,7 +5,7 @@ This repository contains an **Automatic Speech Recognition (ASR) model** using *
 ### 🔹 Required Files  
 To use this model, you'll need the following:  
 1. **Pre-trained Model & Config Files** → Download from **[wav2vec2](https://github.com/aiwithipsa/ASR-Model/tree/main/wav2vec2)** or **Hugging Face**  
-2. **.wav Files (Dataset)** → Download from **[Google Drive](your_drive_link_here)**  
+2. **.wav Files (Dataset)** → Download from **[Dataset](https://github.com/aiwithipsa/ASR-Model/tree/main/dataset)**  
 
 ### 📌 How to Set Up  
 
