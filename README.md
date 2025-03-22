@@ -24,8 +24,6 @@ pip install -r requirements.txt
 4️⃣ Run the ASR Model
 python transcribe.py --audio dataset/input.wav
 
-```bash
-
 🛠 Fine-Tuning (Optional)
 To fine-tune the model, follow the training instructions:
 python train.py
