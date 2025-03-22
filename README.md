@@ -46,5 +46,5 @@ Fine-tuning will be added in future updates.
 
 
 ```bash
-git clone https://github.com/your-username/asr-model.git
+git clone https://github.com/aiwithipsa/asr-model.git
 cd asr-model
